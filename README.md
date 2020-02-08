@@ -1,0 +1,2 @@
+# noita-cheat-dice
+NoitaのCheatDiceMod
